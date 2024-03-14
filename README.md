@@ -1,2 +1,2 @@
 # ProjectSelHoz
-this new projecе
+this new project
